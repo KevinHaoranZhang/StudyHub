@@ -1,0 +1,14 @@
+/* Styles for the 404 React component */
+.emoji_404 {
+    text-align: center;
+    margin-top: 25vh;
+}
+
+.large_emoji {
+    font-size: 100px;
+}
+
+.centre {
+    text-align: center;
+    margin-top: 20vh;
+}
